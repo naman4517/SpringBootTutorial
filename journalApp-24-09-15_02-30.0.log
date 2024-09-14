@@ -1,0 +1,3 @@
+02:30:52.550 [http-nio-8080-exec-3] ERROR n.e.journalApp.service.UserService - HAAAA
+02:30:52.551 [http-nio-8080-exec-3] WARN  n.e.journalApp.service.UserService - hahahahha
+02:30:52.551 [http-nio-8080-exec-3] INFO  n.e.journalApp.service.UserService - HAAAA
